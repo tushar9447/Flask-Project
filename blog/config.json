@@ -1,0 +1,18 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/codeblog",
+    "prod_uri":"mysql://root:@localhost/codeblog",
+    "blog_name": "BLOGGERS SPACE",
+    "tag_line": "A Space to Share Idea",
+    "about_text": "MY Name is Tushar Naik",
+    "no_of_posts": 5,
+    "login_image":"login.svg",
+    "admin_user":"tushar",
+    "admin_password": "tushar",
+    "upload_location":"C:\\Users\\OWNER\\Desktop\\blog\\static\\img"
+
+
+  }
+}
